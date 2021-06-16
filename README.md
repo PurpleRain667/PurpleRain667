@@ -6,7 +6,7 @@
     Bonjour! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a>
 </h1>
 <div class="highlight highlight-source-js position-relative"><pre><span class="pl-c1">&lt;</span><span class="pl-ent">Quick</span> <span class="pl-c1">Introduction</span><span class="pl-c1">&gt;</span>
-Eyyoo! Code addict, with life lessons :).</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+Eyyoo! i'm a french developer :)</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="<let PurpleRain667 = require('github')>
 Eyyoo! i'm a french developer :)
 " tabindex="0" role="button">
