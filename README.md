@@ -19,7 +19,7 @@ Eyyoo! i'm a french developer :)
     </clipboard-copy>
   </div></div>
 
-・🌱 I'm a young dev !
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m a young dev !</li>
 ・⚡️ I code discord bot
 ・📬 Contact me on <a href="https://discord.gg/jztpQ5M2Nf" rel="nofollow">Discord</a>
 
