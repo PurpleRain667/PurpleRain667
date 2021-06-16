@@ -20,8 +20,8 @@ Eyyoo! i'm a french developer :)
   </div></div>
 
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m a young dev !</li>
-・⚡️ I code discord bot
-・📬 Contact me on <a href="https://discord.gg/jztpQ5M2Nf" rel="nofollow">Discord</a>
+<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>I code discord bot.<br></li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>Contact me on: <a href="https://discord.gg/EwEMPMej" rel="nofollow">Discord</a></li>
 
 
 <h2>
